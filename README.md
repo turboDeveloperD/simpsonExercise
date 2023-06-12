@@ -1,0 +1,2 @@
+# simpsonExercise
+ejercicio los simpson
